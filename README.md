@@ -1,2 +1,3 @@
-# flare-removal
-Framework for training and evaluating flare removal approach
+# Flare Removal
+
+Aims to develop AI algorithms for removing of flare/glare from photo/video
